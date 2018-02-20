@@ -6,8 +6,9 @@ $anchor-text-color: #CE534D;
 $background-color: #F1EED9;
 
 body {
-	font-family: 'Source Sans Pro', sans-serif;
-	color: $text-color;
+	font-family: "Helvetica Neue", "Calibri Light", Roboto, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;	color: $text-color;
 	background-color: $background-color;
 }
 
