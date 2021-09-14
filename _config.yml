@@ -5,7 +5,7 @@ baseurl: ''
 # compass configuration
 compass:
   # author will appear under the avatar (optional)
-  author: "David Norman"
+  author: "David Norman, Ph.D."
   # tagline will appear under the title (optional)
   tagline: "Technologist and Scouter"
   # if include_content is true, the contents of the content.html include will be
@@ -14,7 +14,7 @@ compass:
   # if include_analytics is true, the content of the analytics.html include will
   # be added at the end of the <head> section. You can add your Google Analytics
   # Tracking Code to that file.
-  include_analytics: true
+  include_analytics: false
 
 # exclude
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE"]
