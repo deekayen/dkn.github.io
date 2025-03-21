@@ -1,0 +1,62 @@
+# Volunteering
+# comment out the urls if you do not wish to display them
+
+- organization: Scouting America
+  role: Scoutmaster
+  year: Jun, 2022 &mdash; Present
+  url: http://troop3740.com/
+  summary: Troop 3740, Good Shepherd Catholic Church, Cumming, GA
+
+- organization: Georgia Cycling
+  role: Assistant Coach
+  year: May, 2020 &mdash; Present
+  url: https://www.focomtb.org/
+  summary: Forsyth County Composite Mountain Bike Team
+
+- organization: Scouting America
+  role: District Member-at-Large
+  year: Aug, 2018 &mdash; Present
+  url: https://www.nega-bsa.org/etowah
+  summary: Northeast Georgia Council Etowah District volunteer for planning and chairing activities run by volunteers in a 3-county area. This includes running events such as Eagle rank boards of review, camps, lock-ins, workshops, shooting sports, and rank advancement days, as well as updates to the online communication and calendaring.
+
+- organization: Civil Air Patrol
+  role: Communications Officer
+  year: Nov, 2021 &mdash; Present
+  url: https://forsyth.cap.gov/
+  summary: As part of the Forsyth County Cadet Squadron.
+
+- organization: NTP Pool Project
+  role: NTP pool server host
+  year: Apr, 2012 &mdash; Feb, 2023
+  url: https://www.ntppool.org/
+  summary: Hosted a stratum 2 time server in the pool for us.pool.ntp.org.
+
+- organization: OpenNIC
+  role: Tier 2 server host
+  year: May, 2012 &mdash; Jul, 2013
+  url: https://opennic.org/
+  summary: I hosted an open resolver DNS server on the OpenNIC network until it was abused in DoS reflection attacks.
+
+- organization: Local Church, Cumming, GA
+  role: Financial Peace University Table Leader
+  year: Oct, 2014 &mdash; Apr, 2019
+  url: https://localchurchforsyth.com/
+  summary: Financial Peace University is a class taught by Dave Ramsey on video. It teaches a way of handling personal finances. I helped the class participants with some of my experience going through Ramsey's baby steps to get rid of debt, manage money, and spend and save wisely.
+
+- organization: Drupal
+  role: Webmaster team member
+  year: Jan, 2005 &mdash; Sept, 2015
+  url: https://drupal.org/
+  summary: I had elevated privileges on https://www.drupal.org to help people with the management of pages, input filter settings, ownership of projects, and approval for people to commit as "vetted" users to the git repositories hosed by Drupal.
+
+- organization: Drupal Association
+  role: Assistant Treasurer
+  year: Jan, 2009 &mdash; Jan, 2011
+  url: https://association.drupal.org/
+  summary: I had elevated privileges on https://www.drupal.org to help people with the management of pages, input filter settings, ownership of projects, and approval for people to commit as "vetted" users to the git repositories hosed by Drupal.
+
+- organization: Google
+  role: Summer of Code mentor
+  year: Jan, 2009 &mdash; Jan, 2011
+  url: https://groups.drupal.org/node/1133
+  summary: Mentor high school-aged kids mentoring and a stipend as incentive to get involved with Open Source project. Included mentoring for the ultimate LaTeX module for Drupal by Daniel Gutekunst and Validation API Module for JS/PHP by Craig Jackson (TapocoL).

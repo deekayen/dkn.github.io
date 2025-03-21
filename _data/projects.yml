@@ -1,0 +1,23 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# keyboard
+- project: Norman Keyboard Layout
+  role: Primary Designer
+  duration: 2012 &mdash; Present
+  url: "https://normanlayout.info/"
+  description: Creator of the Norman keyboard layout, which is now widely used and included as an alternative in the Linux xkeyboard library.Creator of the Norman keyboard layout, which is now widely used and included as an alternative in the Linux xkeyboard library.
+
+# Guardr
+- project: Guardr
+  role: Co-Founder & Developer
+  duration: 2012 &mdash; 2015
+  url: "https://www.drupal.org/project/guardr"
+  description: Guardr is a Drupal distribution with a combination of modules and settings to enhance a Drupal application's security and availability to meet enterprise security requirements.
+
+# Thatware
+- project: Thatware
+  role: Founder & Developer
+  duration: 1998 &mdash; 2005
+  url: "https://sourceforge.net/projects/thatware/"
+  description: I wrote my own Slashdot clone in PHP, which was superseded by the superior speed and feature-set of Drupal.
