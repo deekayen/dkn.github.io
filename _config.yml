@@ -1,6 +1,6 @@
 # Site settings
 title: "David Norman, Ph.D."
-description: "An overview of David's background and interests."
+description: "Resume for David Norman, IT Engineer, Georgia, USA"
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "David Norman, Ph.D."
-resume_title:                   "Technologist and Scouter"
+resume_title:                   "Cloud Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "david@dkn.email"
