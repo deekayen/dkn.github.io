@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<!-- you can check... it's valid HTML5 -->
 
   {% include head.html %}
 
@@ -10,15 +11,12 @@
 
       <header class="page-header">
 
-        <!-- You can turn off the avatar in _config.yml by setting to false -->
         {% if site.resume_avatar == 'true' %}
         <img src="images/avatar.png" alt="my photo" class="avatar no-print" itemprop="image">
         {% endif %}
 
-        <!-- Your name is defined in the _config.yml file -->
         <h1 class="header-name" itemprop="name">{{ site.resume_name }}</h1>
 
-        <!-- To display contact info here, change `display_header_contact_info` value in _config.yml to true -->
         {% if site.display_header_contact_info == 'true' %}
         <div class="header-contact-info">
           <p>{{ site.resume_header_contact_info }}</p>
@@ -212,28 +210,6 @@
       </section>
       <!-- end Links -->
       {% endif %}
-
-      <!-- begin Print radio stuff -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2>Radio</h2>
-        </header>
-
-        <div class="resume-item">
-         <p><iframe src="https://pota-stats.wd4dan.net/?call=N4DKN" height="1250" width="1000"></iframe></p>
-        </div>
-
-      </section>
-      <!-- end Print radio stuff -->
-
-      <!-- begin Print tip jar -->
-      <section class="content-section">
-        <div class="resume-item">
-         <script src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="deekayen" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a chocolate bar" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
-        </div>
-      </section>
-      <!-- end Print tip jar -->
 
       {% if site.resume_print_social_links %}
       <!-- begin Print Social Links -->
