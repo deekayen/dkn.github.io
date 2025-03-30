@@ -196,6 +196,14 @@ svg:not(:root) {
   overflow: hidden;
 }
 
+iframe {
+  border: none;
+}
+
+iframe body {
+  overflow: hidden;
+}
+
 /* Grouping content
    ========================================================================== */
 
