@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   {% include head.html %}
 
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
 
     <div class="wrapper" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="address" content="{{ site.resume_contact_address }}"/>
+      <meta itemprop="address" content="{{ site.resume_contact_address }}">
 
       <header class="page-header">
 
@@ -59,7 +59,7 @@
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
-          <p class="resume-item-copy">{{ job.summary }}</p>
+          {{ job.summary }}
         </div><!-- end of resume-item -->
         {% endfor %}
 
@@ -79,7 +79,6 @@
         <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
           <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
           <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
-          <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5>
           <p class="resume-item-copy" itemprop="description">
             <ul class="resume-item-list">
               {% for award in education.awards %}
@@ -143,7 +142,7 @@
 
         {% for project in site.data.projects %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
-          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
+          <meta itemprop="creator" content="{{ site.resume_name }}" itemscope itemtype="http://schema.org/Person">
           <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
           <p class="resume-item-copy">{{ project.description }}</p>
@@ -229,6 +228,35 @@
       </section>
       <!-- end Print Social Links -->
       {% endif %}
+
+
+      <!-- begin Print radio stuff -->
+      <section class="content-section print-only">
+
+        <header class="section-header">
+          <h2>Radio</h2>
+        </header>
+
+        <div class="resume-item">
+         <p><iframe src="https://pota-stats.wd4dan.net/?call=YOURCALL" height="1250" width="1000" frameborder="0" scrolling="no"></iframe></p>
+        </div>
+
+      </section>
+      <!-- end Print radio stuff -->
+
+      <!-- begin Print tip jar -->
+      <section class="content-section print-only">
+
+        <header class="section-header">
+          <h2>Radio</h2>
+        </header>
+
+        <div class="resume-item">
+         <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="deekayen" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a chocolate bar" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+        </div>
+
+      </section>
+      <!-- end Print tip jar -->
     </div>
 
   </body>

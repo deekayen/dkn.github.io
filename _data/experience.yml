@@ -4,7 +4,7 @@
   position: Senior IT Engineer
   duration: June, 2016 &mdash; Present
   summary: >
-    Work in devops, security, and infrastucture roles to design the secure hosting environment of medical records storage and retrieval systems for ~60% of the United States' medical records.
+    <p class="resume-item-copy">Work in devops, security, and infrastucture roles to design the secure hosting environment of medical records storage and retrieval systems for ~60% of the United States' medical records.</p>
     <ul class="resume-item-list">
       <li>Unify and de-duplicate corporate IT infrastructure tools from M&A activity.</li>
       <li>Perform datacenter migrations between AWS, Azure, and VMWare-based datacenters.</li>
@@ -17,7 +17,7 @@
   position: Security Analyst
   duration:  June, 2015 &mdash; June 2016
   summary: >
-    Inspected security measures for the protection of Ruby-based, AWS-hosted web application and IT environments. Monitored and analyzed security controls, reviewed vulnerabilities, maintained and enforced security policies, and performed risk assessments.
+    <p class="resume-item-copy">Inspected security measures for the protection of Ruby-based, AWS-hosted web application and IT environments. Monitored and analyzed security controls, reviewed vulnerabilities, maintained and enforced security policies, and performed risk assessments.</p>
     <ul class="resume-item-list">
       <li>Established vulnerability management program based on Tenable SecurityCenter.</li>
       <li>Wrote policies and technical configuration documents to align with security standards and European privacy regulations.</li>
@@ -31,7 +31,7 @@
   position: Web Development
   duration: Sept, 2007 &mdash; Jun, 2015
   summary: >
-    Developed, tested, deployed, supported and maintained custom Drupal websites for Fortune 50 customers, including banks and retail firms.
+    <p class="resume-item-copy">Developed, tested, deployed, supported and maintained custom Drupal websites for Fortune 50 customers, including banks and retail firms.</p>
     <ul class="resume-item-list">
       <li>Designed and wrote web-based software to direct collation of printed items and kitting plans for shipping.</li>
       <li>Setup and configured end-to-end continuous integration using Jenkins for an Ubuntu-based environment.</li>
@@ -43,14 +43,14 @@
 - company: Google
   position: Quality Rater
   duration: Dec, 2006 &mdash; Dec, 2007
-  summary: Help train the Google Pagerank engine to show timely and accurate results.
+  summary: <p class="resume-item-copy">Help train the Google Pagerank engine to show timely and accurate results.</p>
 
 # AAI
 - company: Advanced Automation Inc
   position: Director of Instructional Technology
   duration: Aug, 2003 &mdash; Jul, 2006
   summary: >
-    Collaborated with executives, sales, and support departments to develop online training curicullum for hundreds of insurance agencies.
+    <p class="resume-item-copy">Collaborated with executives, sales, and support departments to develop online training curicullum for hundreds of insurance agencies.</p>
     <ul class="resume-item-list">
       <li>Managed server infrastructure for delivery of virtual sales meetings, dynamic web-based training, and interactive inter-agency information sharing.</li>
       <li>Responsible for remotely diagnosing IT problems and making repairs.</li>
@@ -61,4 +61,4 @@
 - company: The University of Texas at Tyler
   position: Computer Lab Sysadmin
   duration: Feb, 2002 &mdash; Jun, 2003
-  summary: Responsible for operation of 3 campus computer labs. Monitored and updated software on student email, Blackboard (web courseware), and Snort-based, OpenBSD network traffic monitoring servers. Trained computer lab staff. Performed hardware inventory audits. Configured centralized antivirus updating and reports.
+  summary: <p class="resume-item-copy">Responsible for operation of 3 campus computer labs. Monitored and updated software on student email, Blackboard (web courseware), and Snort-based, OpenBSD network traffic monitoring servers. Trained computer lab staff. Performed hardware inventory audits. Configured centralized antivirus updating and reports.</p>
