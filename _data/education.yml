@@ -1,15 +1,10 @@
-# Degree
-- degree: Doctor of Philosophy
-  uni: University of Central Florida
-  year: 2005 &mdash; 2008
-  summary: Instructional Technology
+#
+- uni: University of Central Florida
+  degree:
+    - Doctor of Philosophy, Instructional Technology
+    - Master of Science, Management Information Systems
 
-- degree: Master of Science
-  uni: University of Central Florida
-  year: 2003 &mdash; 2005
-  summary: Management Information Systems
-
-- degree: Bachelor of Business Administration
-  uni: The University of Texas at Tyler
-  year:
-  summary: General Business
+#
+- uni: The University of Texas at Tyler
+  degree:
+    - Bachelor of Business Administration, General Business
