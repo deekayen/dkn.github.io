@@ -1,64 +1,64 @@
 # Recognitions
 - award: The President's Lifetime Achievement Award
-  organization: AmeriCorps
+  organization: <a href="https://presidentialserviceawards.gov/">AmeriCorps</a>
   year: 2024
   summary: In recognition of more than 4000 hours of unpaid acts of volunteer service benefitting others.
 
 - award: Amateur Radio Service to Scouting Award
-  organization: American Radio Relay League (ARRL)
+  organization: <a href="https://www.arrl.org/">American Radio Relay League (ARRL)</a>
   year: 2024
   summary: In recognition of promoting Amateur Radio through the Scouting America program.
 
 - award: Community Organization Award
-  organization: Boy Scouts of America
+  organization: <a href="https://www.scouting.org/">Scouting America</a>
   year: 2024
   summary: Recognition of Scouters for voluntary service and achievement to Scouting youth in the community.
 
 - award: Benjamin O. Davis, Jr. Award
-  organization: Civil Air Patrol
+  organization: <a href="https://www.gocivilairpatrol.com/">Civil Air Patrol</a>
   year: 2023
   summary: The Benjamin O. Davis, Jr. Award is presented to senior members who successfully complete the second level of professional development. Members must complete the technical training required for the Leadership Award and must also attend Squadron Leadership School.
 
 - award: Brigadier General Charles E. “Chuck” Yeager Aerospace Education Achievement Award
-  organization: Civil Air Patrol
+  organization: <a href="https://www.gocivilairpatrol.com/">Civil Air Patrol</a>
   year: 2023
 
 - award: Crisis Service Award
-  organization: Civil Air Patrol
+  organization: <a href="https://www.gocivilairpatrol.com/">Civil Air Patrol</a>
   year: 2021
   summary: CAP Crisis Service Ribbon was established to recognize the CAP membership during periods when the entire organization was under significant stress responding to a lengthy, nationwide emergency.
 
 - award: District Award of Merit
-  organization: Boy Scouts of America
+  organization: <a href="https://www.scouting.org/">Scouting America</a>
   year: 2021
   summary: Etowah District, Northeast Georgia Council - for service of an outstanding nature at the district level.
 
 - award: Scouter's Training Award
-  organization: Boy Scouts of America
+  organization: <a href="https://www.scouting.org/">Scouting America</a>
   year: 2019
   summary: Recognition for training, tenure, participation, and performance as a Scout leader.
 
 - award: Den Leader Training Award
-  organization: Boy Scouts of America
+  organization: <a href="https://www.scouting.org/">Scouting America</a>
   year: 2018
   summary: Recognition of den leaders who have completed training, tenure, and performance requirements.
 
 - award: James E. West Fellowship
-  organization: Boy Scouts of America
+  organization: <a href="https://www.scouting.org/">Scouting America</a>
   year: 2018
   summary: As designated by the Northeast Georgia Council in honor of Wood Badge S9-101-35.
 
 - award: Recognition of Merit for Service
-  organization: University of Central Florida
+  organization: <a href="https://www.ucf.edu/">University of Central Florida</a>
   year: 2006
   summary: Provided complementary instructional technology consulting to Hospice of the Comforter in Orlando, FL.
 
 - award: Honorary Sea Aggie
-  organization: Texas A&M University at Galveston
+  organization: <a href="https://www.tamug.edu/">Texas A&M University at Galveston</a>
   year: 1999
   summary: In recognition of research I performed of common contaminates in various watersheds in Southeast Texas and their impact on water-borne macro-invertebrate populations.
 
 - award: Eagle Scout
-  organization: Boy Scouts of America
+  organization: <a href="https://www.scouting.org/">Scouting America</a>
   year: 1995
   summary: Eagle Scout project was to install permanent benches at the observation marsh area for the Lady Bird trail of Armand Bayou Nature Center in Pasadena, Texas. The benches survived until ~2023 before a routine flood finally destroyed them.

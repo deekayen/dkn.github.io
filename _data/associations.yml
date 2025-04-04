@@ -2,22 +2,16 @@
 # comment out the urls if you do not wish to display them
 
 - organization: Scouting America
-  role: Scoutmaster
-  year: Jun, 2022 &mdash; Present
+  role: Scoutmaster, District Member-at-Large
+  year: Jun, 2018 &mdash; Present
   url: http://troop3740.com/
-  summary: Troop 3740, Good Shepherd Catholic Church, Cumming, GA
+  summary: Plan and chair activities run by volunteers in a 3-county area, including Eagle rank boards of review, camps, lock-ins, workshops, target sports, and rank advancement days.
 
 - organization: Georgia Cycling
   role: Assistant Coach
   year: May, 2020 &mdash; Present
   url: https://www.focomtb.org/
   summary: Forsyth County Composite Mountain Bike Team
-
-- organization: Scouting America
-  role: District Member-at-Large
-  year: Aug, 2018 &mdash; Present
-  url: https://www.nega-bsa.org/etowah
-  summary: Northeast Georgia Council Etowah District volunteer for planning and chairing activities run by volunteers in a 3-county area. This includes running events such as Eagle rank boards of review, camps, lock-ins, workshops, shooting sports, and rank advancement days, as well as updates to the online communication and calendaring.
 
 - organization: Civil Air Patrol
   role: Communications Officer
@@ -48,12 +42,6 @@
   year: Jan, 2005 &mdash; Sept, 2015
   url: https://drupal.org/
   summary: I had elevated privileges on https://www.drupal.org to help people with the management of pages, input filter settings, ownership of projects, and approval for people to commit as "vetted" users to the git repositories hosed by Drupal.
-
-- organization: Drupal Association
-  role: Assistant Treasurer
-  year: Jan, 2009 &mdash; Jan, 2011
-  url: https://association.drupal.org/
-  summary: ""
 
 - organization: Google
   role: Summer of Code mentor
