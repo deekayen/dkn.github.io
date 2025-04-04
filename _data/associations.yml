@@ -5,7 +5,7 @@
   role: Scoutmaster, District Member-at-Large
   year: Jun, 2018 &mdash; Present
   url: http://troop3740.com/
-  summary: Plan and chair activities run by volunteers in a 3-county area, including Eagle rank boards of review, camps, lock-ins, workshops, target sports, and rank advancement days.
+  summary: Plan and chair activities run by volunteers in a 3-county area, including camps, lock-ins, workshops, leadership training, target sports, career exploration days, and Eagle rank boards of review.
 
 - organization: Georgia Cycling
   role: Assistant Coach
@@ -38,10 +38,10 @@
   summary: Financial Peace University is a class taught by Dave Ramsey on video. It teaches a way of handling personal finances. I helped the class participants with some of my experience going through Ramsey's baby steps to get rid of debt, manage money, and spend and save wisely.
 
 - organization: Drupal
-  role: Webmaster team member
-  year: Jan, 2005 &mdash; Sept, 2015
-  url: https://drupal.org/
-  summary: I had elevated privileges on https://www.drupal.org to help people with the management of pages, input filter settings, ownership of projects, and approval for people to commit as "vetted" users to the git repositories hosed by Drupal.
+  role: Project contibutor
+  year: Mar, 2001 &mdash; ~2015ish
+  url: https://www.drupal.org/user/972
+  summary: I contributed core patches, modules, installation profiles, themes, documentation, automated testing, and reviewed project applications. I had elevated privileges on https://www.drupal.org to help people with the management of pages, input filter settings, ownership of projects, and approval for people to commit as "vetted" users to the git repositories hosed by Drupal.
 
 - organization: Google
   role: Summer of Code mentor
