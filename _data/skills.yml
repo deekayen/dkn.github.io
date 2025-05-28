@@ -29,6 +29,9 @@
 - skill: <a href="https://www.credly.com/badges/14744583-e64a-47ff-a6c7-3edf4c4d3ddc/public_url">AWS Certififed DevOps Engineer - Professional</a>
   description: <a href="https://aws.amazon.com/certification/">Amazon Web Services (AWS)</a>, May 2020 &mdash; May 2023
 
+- skill: <a href="https://lpi.org/v/LPI000563609/zpajuw9btt">Security Essentials</a>
+  description: <a href="https://www.lpi.org/">Linux Professional Institute (LPI)</a>, May 2025
+
 - skill: <a href="https://lpi.org/v/LPI000563609/zpajuw9btt">Linux Essentials</a>
   description: <a href="https://www.lpi.org/">Linux Professional Institute (LPI)</a>, May 2023
 
@@ -56,8 +59,8 @@
 - skill: Wilderness First Aid
   description: APA Emergency Care and Safety Institute, Aug 2019 &mdash; Mar 2026
 
-- skill: Swimming and Water Rescue
-  description: <a href="https://www.scouting.org/">Scouting America</a>, Sept 2022
+#- skill: Swimming and Water Rescue
+#  description: <a href="https://www.scouting.org/">Scouting America</a>, Sept 2022
 
 - skill: Adult and Pediatric First Aid/CPR/AED
   description: <a href="https://www.redcross.org/">American Red Cross</a>, Feb 2023 &mdash; Feb 2005
