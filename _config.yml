@@ -48,6 +48,7 @@ resume_section_associations:    false
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
+  resume_alltrails_url:         "https://www.alltrails.com/members/david-norman-23"
   resume_github_url:            "https://github.com/deekayen"
   resume_goodreads_url:         "https://www.goodreads.com/deekayen"
 #  resume_linkedin_url:          "https://www.linkedin.com/in/deekayen"
