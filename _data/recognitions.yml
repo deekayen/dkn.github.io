@@ -1,8 +1,8 @@
 # Recognitions
-#- award: Scouter of the Year
-#  organization: <a href="https://www.nega-bsa.org/etowah/">Scouting America - Northeast Georgia Council</a>
-#  year: 2025
-#  summary: For exemplifying the ideals of Scouting in Etowah District.
+- award: Scouter of the Year
+  organization: <a href="https://www.nega-bsa.org/etowah/">Scouting America - Northeast Georgia Council</a>
+  year: 2025
+  summary: For exemplifying the ideals of Scouting in Etowah District.
 
 - award: The President's Lifetime Achievement Award
   organization: <a href="https://presidentialserviceawards.gov/">AmeriCorps</a>
@@ -14,10 +14,10 @@
   year: 2024
   summary: In recognition of promoting Amateur Radio through the Scouting America program.
 
-#- award: Community Organization Award
-#  organization: <a href="https://www.scouting.org/">Scouting America</a>
-#  year: 2024
-#  summary: Recognition of Scouters for voluntary service and achievement to Scouting youth in the community.
+- award: Community Organization Award
+  organization: <a href="https://www.scouting.org/">Scouting America</a>
+  year: 2024
+  summary: Recognition of Scouters for voluntary service and achievement to Scouting youth in the community.
 
 - award: Benjamin O. Davis, Jr. Award
   organization: <a href="https://www.gocivilairpatrol.com/">Civil Air Patrol</a>
@@ -33,25 +33,25 @@
   year: 2021
   summary: CAP Crisis Service Ribbon was established to recognize the CAP membership during periods when the entire organization was under significant stress responding to a lengthy, nationwide emergency.
 
-#- award: District Award of Merit
-#  organization: <a href="https://www.scouting.org/">Scouting America</a>
-#  year: 2021
-#  summary: Etowah District, Northeast Georgia Council - for service of an outstanding nature at the district level.
+- award: District Award of Merit
+  organization: <a href="https://www.scouting.org/">Scouting America</a>
+  year: 2021
+  summary: Etowah District, Northeast Georgia Council - for service of an outstanding nature at the district level.
 
-#- award: Scouter's Training Award
-#  organization: <a href="https://www.scouting.org/">Scouting America</a>
-#  year: 2019
-#  summary: Recognition for training, tenure, participation, and performance as a Scout leader.
+- award: Scouter's Training Award
+  organization: <a href="https://www.scouting.org/">Scouting America</a>
+  year: 2019
+  summary: Recognition for training, tenure, participation, and performance as a Scout leader.
 
-#- award: Den Leader Training Award
-#  organization: <a href="https://www.scouting.org/">Scouting America</a>
-#  year: 2018
-#  summary: Recognition of den leaders who have completed training, tenure, and performance requirements.
+- award: Den Leader Training Award
+  organization: <a href="https://www.scouting.org/">Scouting America</a>
+  year: 2018
+  summary: Recognition of den leaders who have completed training, tenure, and performance requirements.
 
-#- award: James E. West Fellowship
-#  organization: <a href="https://www.scouting.org/">Scouting America</a>
-#  year: 2018
-#  summary: As designated by the Northeast Georgia Council in honor of Wood Badge S9-101-35.
+- award: James E. West Fellowship
+  organization: <a href="https://www.scouting.org/">Scouting America</a>
+  year: 2018
+  summary: As designated by the Northeast Georgia Council in honor of Wood Badge S9-101-35.
 
 - award: Recognition of Merit for Service
   organization: <a href="https://www.ucf.edu/">University of Central Florida</a>
