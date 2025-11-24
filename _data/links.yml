@@ -7,5 +7,7 @@
   description: AllTrails
 - url: "https://www.goodreads.com/deekayen"
   description: Goodreads
+- url: "https://app.thestorygraph.com/profile/deekayen"
+  description: StoryGraph
 #- url: "https://pota.app/#/profile/N4DKN"
 #  description: Parks on the Air
