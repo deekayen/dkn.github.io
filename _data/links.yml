@@ -9,5 +9,5 @@
   description: Goodreads
 - url: "https://app.thestorygraph.com/profile/deekayen"
   description: StoryGraph
-#- url: "https://example.org/"
-#  description: Redacted
+- url: "https://example.org/"
+  description: Redacted
