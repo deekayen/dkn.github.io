@@ -23,7 +23,7 @@ resume_header_contact_info:     "Georgia USA • david@dkn.email"
 display_header_contact_info:    "false"
 
 resume_header_intro: >
-  <p>I manage cloud server infrastructure. I like to focus on projects that heavily rely on <a href="https://www.ansible.com/">Ansible</a> and <a href="https://aws.amazon.com/">AWS</a>.</p>
+  <p>I manage cloud server infrastructure. I like to focus on projects that heavily rely on <a href="https://aws.amazon.com/">AWS</a> and <a href="https://www.ansible.com/">Ansible</a>.</p>
 
   <h3>Previously</h3>
   <p>Application configuration, web application architecture and deployment, IT management, and <a href="https://www.drupal.org/user/972">Drupal development</a>. I'm also the author of the <a href="https://normanlayout.info">Norman keyboard layout</a> and discoverer of the prime number <a href="https://www.primegrid.com/primes/?section=primelist&userid=75896">366216162^65536+1</a>.</p>
