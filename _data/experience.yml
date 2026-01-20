@@ -6,7 +6,8 @@
   summary: >
     <p class="resume-item-copy">Work in devops, security, and infrastucture roles to design the secure hosting environment of medical records storage and retrieval systems for ~60% of the United States' medical records.</p>
     <ul class="resume-item-list">
-      <li>Unify and de-duplicate corporate IT infrastructure tools from M&A activity.</li>
+      <li>Unify and de-duplicate corporate IT infrastructure tools from merger and aquisition activity.</li>
+      <li>Identified, documented, and helped remediate over $1.5m in Cloud-spend waste.</li>
       <li>Perform datacenter migrations between AWS, Azure, and VMWare-based datacenters.</li>
       <li>Achieved 99% compliance with several cloud configuration compliance frameworks including CIS, HITRUST, NIST-CSF, FedRAMP, AWS Well-Architected Framework, and Azure Architecture Framework.</li>
       <li>Write proprietary Ansible roles, Terraform plans, Github Actions worfklows, and Jenkins pipelines for systems management of Microsoft, Java, and Python-based applications.</li>
