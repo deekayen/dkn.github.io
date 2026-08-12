@@ -16,10 +16,10 @@ resume_title:                   "Platform Engineer"
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "david@dkn.email"
 
-# the next two items are used for schema itemprops in _layouts/resume.html
+# The header line is built from resume_contact_address and
+# resume_contact_email; both also feed schema itemprops in
+# _layouts/resume.html.
 resume_contact_address:         "Georgia, USA"
-
-resume_header_contact_info:     "Georgia USA • david@dkn.email"
 display_header_contact_info:    "true"
 
 resume_header_intro: >

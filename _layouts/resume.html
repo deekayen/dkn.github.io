@@ -19,7 +19,7 @@
 
         {% if site.display_header_contact_info == 'true' %}
         <div class="header-contact-info">
-          <p>{{ site.resume_header_contact_info }}</p>
+          <p>{{ site.resume_contact_address }}{% if site.resume_contact_email %} &bull; <a href="mailto:{{ site.resume_contact_email }}" itemprop="email">{{ site.resume_contact_email }}</a>{% endif %}</p>
         </div>
         {% endif %}
 
@@ -35,10 +35,6 @@
         <div class="executive-summary" itemprop="description">
           {{ site.resume_header_intro }}
         </div>
-
-        {% if site.resume_contact_email %}
-        <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Email me</a>
-        {% endif %}
 
       </header>
 
