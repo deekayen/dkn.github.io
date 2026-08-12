@@ -14,11 +14,11 @@
       <li>Perform datacenter migrations between AWS, Azure, and VMware-based datacenters.</li>
       <li>Engineer and maintain dedicated AWS accounts for FedRAMP-authorized and HITRUST-certified workloads, and support the recurring third-party audits behind both.</li>
       <li>Sustained 99% configuration compliance across CIS, NIST-CSF, AWS Well-Architected, and Azure Architecture frameworks.</li>
-      <li>Write proprietary Ansible roles, Terraform plans, Github Actions worfklows, and Jenkins pipelines for systems management of Microsoft, Java, and Python-based applications.</li>
+      <li>Write proprietary Ansible roles, Terraform plans, GitHub Actions workflows, and Jenkins pipelines for systems management of Microsoft, Java, and Python-based applications.</li>
     </ul>
 
-# Openspan Security Analyst
-- company: Pegasystems (formerly Openspan)
+# OpenSpan Security Analyst
+- company: Pegasystems (formerly OpenSpan)
   position: Security Analyst
   duration:  June, 2015 &mdash; June 2016
   summary: >
@@ -48,14 +48,14 @@
 - company: Google
   position: Quality Rater
   duration: Dec, 2006 &mdash; Dec, 2007
-  summary: <p class="resume-item-copy">Help train the Google Pagerank engine to show timely and accurate results.</p>
+  summary: <p class="resume-item-copy">Help train the Google PageRank engine to show timely and accurate results.</p>
 
 # AAI
 - company: Advanced Automation Inc
   position: Director of Instructional Technology
   duration: Aug, 2003 &mdash; Jul, 2006
   summary: >
-    <p class="resume-item-copy">Collaborated with executives, sales, and support departments to develop online training curicullum for hundreds of insurance agencies.</p>
+    <p class="resume-item-copy">Collaborated with executives, sales, and support departments to develop online training curriculum for hundreds of insurance agencies.</p>
     <ul class="resume-item-list">
       <li>Managed server infrastructure for delivery of virtual sales meetings, dynamic web-based training, and interactive inter-agency information sharing.</li>
       <li>Responsible for remotely diagnosing IT problems and making repairs.</li>

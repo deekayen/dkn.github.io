@@ -35,7 +35,7 @@
   role: Project contributor
   year: 2001 &mdash; 2015
   url: https://www.drupal.org/user/972
-  summary: I contributed core patches, modules, installation profiles, themes, documentation, automated testing, and reviewed project applications. I had elevated privileges on https://www.drupal.org to help people with the management of pages, input filter settings, ownership of projects, and approval for people to commit as "vetted" users to the git repositories hosed by Drupal.
+  summary: I contributed core patches, modules, installation profiles, themes, documentation, automated testing, and reviewed project applications. I had elevated privileges on https://www.drupal.org to help people with the management of pages, input filter settings, ownership of projects, and approval for people to commit as "vetted" users to the git repositories hosted by Drupal.
 
 - organization: Google
   role: Summer of Code mentor
