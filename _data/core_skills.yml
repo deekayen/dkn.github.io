@@ -1,0 +1,18 @@
+# Core skills
+# Named by category rather than by product where naming the product would
+# disclose an employer's security stack.
+
+- category: Cloud
+  items: AWS (Organizations, IAM Identity Center, EC2, RDS), Azure, VMware
+
+- category: Automation
+  items: Ansible, Terraform, GitHub Actions, Jenkins, Packer, Bash, Python
+
+- category: Compliance
+  items: FedRAMP and HITRUST audited environments; CIS, NIST-CSF, HIPAA, ISO 27001, PCI-DSS
+
+- category: FinOps
+  items: Cost allocation, rightsizing, and commitment planning across cloud and SaaS spend
+
+- category: Security
+  items: Cloud security posture management, vulnerability management, secrets management, SSO

@@ -42,6 +42,26 @@
 
       </header>
 
+      {% if site.resume_section_core_skills %}
+      <!-- begin Core Skills -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Core Skills</h2>
+        </header>
+
+        <div class="resume-item">
+          <ul class="resume-item-list">
+            {% for skill in site.data.core_skills %}
+            <li><strong>{{ skill.category }}</strong>: {{ skill.items }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+
+      </section>
+      <!-- end Core Skills -->
+      {% endif %}
+
       {% if site.resume_section_experience %}
       <!-- begin Experience -->
       <section class="content-section">

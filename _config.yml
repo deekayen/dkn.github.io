@@ -23,7 +23,9 @@ resume_header_contact_info:     "Georgia USA • david@dkn.email"
 display_header_contact_info:    "true"
 
 resume_header_intro: >
-  <p>I manage <a href="https://aws.amazon.com/">AWS</a> cloud server infrastructure.</p>
+  <p>I'm a platform engineer working hands-on across security, operations, and development. I design and operate the FedRAMP-authorized and HITRUST-certified <a href="https://aws.amazon.com/">AWS</a> environment behind medical records storage and retrieval for a majority of United States medical records, and I own FinOps engineering for eight-figure annual cloud and SaaS spend.</p>
+
+  <p>I prefer latitude to work across departments, pairing lean delivery practices with security-standards compliance that holds up under customer and regulator scrutiny.</p>
 
   <h3>Previously</h3>
   <p>Application configuration, web application architecture and deployment, IT management, and <a href="https://www.drupal.org/user/972">Drupal development</a>. I'm also the author of the <a href="https://normanlayout.info">Norman keyboard layout</a> and discoverer of the prime number <a href="https://www.primegrid.com/primes/?section=primelist&userid=75896">366216162^65536+1</a>.</p>
@@ -34,6 +36,7 @@ resume_header_intro: >
 
 # Decide which sections to use
 # comment out to hide
+resume_section_core_skills:     true
 resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
