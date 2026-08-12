@@ -1,33 +1,28 @@
-# Skills
+# Certifications
+# Ordered: current dated certifications, then ones that do not expire,
+# then lapsed ones. Keep new entries in the right group.
+
+# --- Current ---
+
 - skill: <a href="https://www.credly.com/badges/7d9ed57d-349a-48e7-a56a-23e5fffc717f/public_url">Certified Information Systems Security Professional (CISSP)</a>
   description: <a href="https://www.isc2.org/">ISC2</a>, Jan 2014 &mdash; July 2028
 
 - skill: <a href="https://www.credly.com/badges/d7029f0b-8e34-498f-99a5-9306839df603/public_url">Information Systems Security Architecture Professional (ISSAP)</a>
   description: <a href="https://www.isc2.org/">ISC2</a>, Apr 2014 &mdash; Jun 2028
 
-- skill: <a href="https://www.credly.com/badges/ad017df4-32d2-4641-86fd-a28947c9d1ff/public_url">Terraform Associate</a>
-  description: <a href="https://www.hashicorp.com/">Hashicorp</a>, 2024 &mdash; 2026
-
-- skill: <a href="https://www.credly.com/badges/ff1cd5f4-761b-4f1b-ba9c-1dbb99253ddd/public_url">Certificate of Cloud Security Knowledge v.4</a>
-  description: <a href="https://cloudsecurityalliance.org/">Cloud Security Alliance</a>, May 2023
-
-- skill: <a href="https://www.credly.com/badges/fb2364bf-8bb4-4c69-854c-1bfeee9d232b/public_url">AWS Certified Security - Specialty</a>
-  description: <a href="https://aws.amazon.com/certification/">Amazon Web Services (AWS)</a>, Feb 2019 &mdash; Jan 2026
-
-- skill: <a href="https://learn.microsoft.com/api/credentials/share/en-us/deekayen/F175F16F257E814B?sharingId=9B982352F6164119">Azure Security Engineer Associate</a>
-  description: <a href="https://learn.microsoft.com/en-us/credentials/">Microsoft</a>, Feb 2020 &mdash; Feb 2027
-
 - skill: <a href="https://www.credly.com/badges/6cc52668-93af-44db-9e82-41f7009d9aa9/public_url">Certified Secure Software Lifecycle Professional (CSSLP)</a>
   description: <a href="https://www.isc2.org/">ISC2</a>, Sep 2013 &mdash; July 2028
-
-- skill: <a href="https://www.credly.com/badges/8bc2a79e-814e-4505-814b-0859baa5a585/public_url">AWS Certified SysOps Administrator - Associate</a>
-  description: <a href="https://aws.amazon.com/certification/">Amazon Web Services (AWS)</a>, Jun 2017 &mdash; May 2023
 
 - skill: <a href="https://www.credential.net/846443b9-c8d5-49a2-b3c3-f47e21849fb9">Certified Information Privacy Technologist (CIPT)</a>
   description: <a href="https://iapp.org">IAPP</a>, Sept 2015 &mdash; Aug 2027
 
-- skill: <a href="https://www.credly.com/badges/14744583-e64a-47ff-a6c7-3edf4c4d3ddc/public_url">AWS Certified DevOps Engineer - Professional</a>
-  description: <a href="https://aws.amazon.com/certification/">Amazon Web Services (AWS)</a>, May 2020 &mdash; May 2023
+- skill: <a href="https://learn.microsoft.com/api/credentials/share/en-us/deekayen/F175F16F257E814B?sharingId=9B982352F6164119">Azure Security Engineer Associate</a>
+  description: <a href="https://learn.microsoft.com/en-us/credentials/">Microsoft</a>, Feb 2020 &mdash; Feb 2027
+
+# --- Does not expire ---
+
+- skill: <a href="https://www.credly.com/badges/ff1cd5f4-761b-4f1b-ba9c-1dbb99253ddd/public_url">Certificate of Cloud Security Knowledge v.4</a>
+  description: <a href="https://cloudsecurityalliance.org/">Cloud Security Alliance</a>, May 2023
 
 - skill: <a href="https://lpi.org/v/LPI000563609/zpajuw9btt">Security Essentials</a>
   description: <a href="https://www.lpi.org/">Linux Professional Institute (LPI)</a>, May 2025
@@ -41,11 +36,27 @@
 - skill: <a href="https://certification.acquia.com/person/certified/david-norman">Drupal 7 Back-end Specialist</a>
   description: <a href="https://www.acquia.com/">Acquia</a>, Nov 2014
 
+- skill: Zend Certified Engineer
+  description: <a href="https://www.zend.com/">Perforce Zend</a>, Jan 2006
+
+# --- Lapsed ---
+
+- skill: <a href="https://www.credly.com/badges/ad017df4-32d2-4641-86fd-a28947c9d1ff/public_url">Terraform Associate</a>
+  description: <a href="https://www.hashicorp.com/">Hashicorp</a>, Jun 2024 &mdash; Jun 2026
+
+- skill: <a href="https://www.credly.com/badges/fb2364bf-8bb4-4c69-854c-1bfeee9d232b/public_url">AWS Certified Security - Specialty</a>
+  description: <a href="https://aws.amazon.com/certification/">Amazon Web Services (AWS)</a>, Feb 2019 &mdash; Jan 2026
+
+- skill: <a href="https://www.credly.com/badges/14744583-e64a-47ff-a6c7-3edf4c4d3ddc/public_url">AWS Certified DevOps Engineer - Professional</a>
+  description: <a href="https://aws.amazon.com/certification/">Amazon Web Services (AWS)</a>, May 2020 &mdash; May 2023
+
+- skill: <a href="https://www.credly.com/badges/8bc2a79e-814e-4505-814b-0859baa5a585/public_url">AWS Certified SysOps Administrator - Associate</a>
+  description: <a href="https://aws.amazon.com/certification/">Amazon Web Services (AWS)</a>, Jun 2017 &mdash; May 2023
+
 - skill: Cisco Certified Network Associate (CCNA)
   description: <a href="https://www.cisco.com/">Cisco</a>, Jan 2005 &mdash; Jan 2008
 
-- skill: Zend Certified Engineer
-  description: <a href="https://www.zend.com/">Perforce Zend</a>, Jan 2006
+# --- Not displayed ---
 
 #- skill: Redacted
 #  description: Redacted
@@ -60,7 +71,7 @@
 #  description: <a href="https://www.scouting.org/">Scouting America</a>, Sept 2022
 
 #- skill: Adult and Pediatric First Aid/CPR/AED
-#  description: <a href="https://www.redcross.org/">American Red Cross</a>, Feb 2023 &mdash; Feb 2005
+#  description: <a href="https://www.redcross.org/">American Red Cross</a>, Feb 2023 &mdash; Feb 2025
 
 #- skill: Redacted
 #  description: Redacted
