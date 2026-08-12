@@ -11,13 +11,13 @@
   role: Assistant Coach
   year: May, 2020 &mdash; Present
   url: https://www.georgiacycling.org/
-  summary: Composite mountain bike team in the north Georgia league
+  summary: Composite mountain bike team in the north Georgia league.
 
 - organization: Civil Air Patrol
   role: 1st Lieutenant
   year: Nov, 2021 &mdash; Present
   url: https://www.gocivilairpatrol.com/
-  summary: In support of the local cadet squadron.
+  summary: In support of a local cadet squadron.
 
 - organization: NTP Pool Project
   role: NTP pool server host
@@ -30,12 +30,6 @@
   year: May, 2012 &mdash; Jul, 2013
   url: https://opennic.org/
   summary: I hosted an open resolver DNS server on the OpenNIC network until it was abused in DoS reflection attacks.
-
-#- organization: Community organization
-#  role: a personal finance course Table Leader
-#  year: Oct, 2014 &mdash; Apr, 2019
-#  url: https://example.org/
-#  summary: a personal finance course is a class taught by Dave Ramsey on video. It teaches a way of handling personal finances. I helped the class participants with some of my experience going through Ramsey's baby steps to get rid of debt, manage money, and spend and save wisely.
 
 - organization: Drupal
   role: Project contributor

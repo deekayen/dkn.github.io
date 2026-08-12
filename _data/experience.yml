@@ -4,12 +4,13 @@
   position: Staff Engineer
   duration: June, 2016 &mdash; Present
   summary: >
-    <p class="resume-item-copy">Work in devops, security, and infrastucture roles to design the secure hosting environment of medical records storage and retrieval systems for ~60% of the United States' medical records.</p>
+    <p class="resume-item-copy">Work in devops, security, and infrastructure roles to design the secure hosting environment of medical records storage and retrieval systems for a majority of United States medical records.</p>
     <ul class="resume-item-list">
-      <li>Unify and de-duplicate corporate IT infrastructure tools from merger and aquisition activity.</li>
+      <li>Unify and de-duplicate corporate IT infrastructure tools from merger and acquisition activity.</li>
       <li>Identified, documented, and remediated multi-million-dollar cloud spend waste.</li>
-      <li>Perform datacenter migrations between AWS, Azure, and VMWare-based datacenters.</li>
-      <li>Achieved 99% compliance with several cloud configuration compliance frameworks including CIS, HITRUST, NIST-CSF, FedRAMP, AWS Well-Architected Framework, and Azure Architecture Framework.</li>
+      <li>Perform datacenter migrations between AWS, Azure, and VMware-based datacenters.</li>
+      <li>Engineer and maintain dedicated AWS accounts for FedRAMP-authorized and HITRUST-certified workloads, and support the recurring third-party audits behind both.</li>
+      <li>Sustained 99% configuration compliance across CIS, NIST-CSF, AWS Well-Architected, and Azure Architecture frameworks.</li>
       <li>Write proprietary Ansible roles, Terraform plans, Github Actions worfklows, and Jenkins pipelines for systems management of Microsoft, Java, and Python-based applications.</li>
     </ul>
 
