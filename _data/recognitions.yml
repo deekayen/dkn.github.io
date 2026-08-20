@@ -38,20 +38,20 @@
   year: 2021
   summary: For service of an outstanding nature at the district level.
 
-- award: Scouter's Training Award
-  organization: <a href="https://www.scouting.org/">Scouting America</a>
-  year: 2019
-  summary: Recognition for training, tenure, participation, and performance as a Scout leader.
-
-- award: Den Leader Training Award
-  organization: <a href="https://www.scouting.org/">Scouting America</a>
-  year: 2018
-  summary: Recognition of den leaders who have completed training, tenure, and performance requirements.
-
-- award: James E. West Fellowship
-  organization: <a href="https://www.scouting.org/">Scouting America</a>
-  year: 2018
-  summary: Presented in honor of Wood Badge participation.
+#- award: Scouter's Training Award
+#  organization: <a href="https://www.scouting.org/">Scouting America</a>
+#  year: 2019
+#  summary: Recognition for training, tenure, participation, and performance as a Scout leader.
+#
+#- award: Den Leader Training Award
+#  organization: <a href="https://www.scouting.org/">Scouting America</a>
+#  year: 2018
+#  summary: Recognition of den leaders who have completed training, tenure, and performance requirements.
+#
+#- award: James E. West Fellowship
+#  organization: <a href="https://www.scouting.org/">Scouting America</a>
+#  year: 2018
+#  summary: Presented in honor of Wood Badge participation.
 
 - award: Recognition of Merit for Service
   organization: <a href="https://www.ucf.edu/">University of Central Florida</a>

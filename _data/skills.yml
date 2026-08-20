@@ -44,20 +44,20 @@
 
 # --- Lapsed ---
 
-- skill: <a href="https://www.credly.com/badges/ad017df4-32d2-4641-86fd-a28947c9d1ff/public_url">Terraform Associate</a>
-  description: <a href="https://www.hashicorp.com/">Hashicorp</a>, Jun 2024 &mdash; Jun 2026
-
-- skill: <a href="https://www.credly.com/badges/fb2364bf-8bb4-4c69-854c-1bfeee9d232b/public_url">AWS Certified Security - Specialty</a>
-  description: <a href="https://aws.amazon.com/certification/">Amazon Web Services (AWS)</a>, Feb 2019 &mdash; Jan 2026
-
-- skill: <a href="https://www.credly.com/badges/14744583-e64a-47ff-a6c7-3edf4c4d3ddc/public_url">AWS Certified DevOps Engineer - Professional</a>
-  description: <a href="https://aws.amazon.com/certification/">Amazon Web Services (AWS)</a>, May 2020 &mdash; May 2023
-
-- skill: <a href="https://www.credly.com/badges/8bc2a79e-814e-4505-814b-0859baa5a585/public_url">AWS Certified SysOps Administrator - Associate</a>
-  description: <a href="https://aws.amazon.com/certification/">Amazon Web Services (AWS)</a>, Jun 2017 &mdash; May 2023
-
-- skill: Cisco Certified Network Associate (CCNA)
-  description: <a href="https://www.cisco.com/">Cisco</a>, Jan 2005 &mdash; Jan 2008
+#- skill: <a href="https://www.credly.com/badges/ad017df4-32d2-4641-86fd-a28947c9d1ff/public_url">Terraform Associate</a>
+#  description: <a href="https://www.hashicorp.com/">Hashicorp</a>, Jun 2024 &mdash; Jun 2026
+#
+#- skill: <a href="https://www.credly.com/badges/fb2364bf-8bb4-4c69-854c-1bfeee9d232b/public_url">AWS Certified Security - Specialty</a>
+#  description: <a href="https://aws.amazon.com/certification/">Amazon Web Services (AWS)</a>, Feb 2019 &mdash; Jan 2026
+#
+#- skill: <a href="https://www.credly.com/badges/14744583-e64a-47ff-a6c7-3edf4c4d3ddc/public_url">AWS Certified DevOps Engineer - Professional</a>
+#  description: <a href="https://aws.amazon.com/certification/">Amazon Web Services (AWS)</a>, May 2020 &mdash; May 2023
+#
+#- skill: <a href="https://www.credly.com/badges/8bc2a79e-814e-4505-814b-0859baa5a585/public_url">AWS Certified SysOps Administrator - Associate</a>
+#  description: <a href="https://aws.amazon.com/certification/">Amazon Web Services (AWS)</a>, Jun 2017 &mdash; May 2023
+#
+#- skill: Cisco Certified Network Associate (CCNA)
+#  description: <a href="https://www.cisco.com/">Cisco</a>, Jan 2005 &mdash; Jan 2008
 
 # --- Not displayed ---
 
