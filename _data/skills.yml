@@ -39,8 +39,8 @@
 - skill: <a href="https://certification.acquia.com/person/certified/david-norman">Drupal 7 Back-end Specialist</a>
   description: <a href="https://www.acquia.com/">Acquia</a>, Nov 2014
 
-- skill: Zend Certified Engineer
-  description: <a href="https://www.zend.com/">Perforce Zend</a>, Jan 2006
+#- skill: Zend Certified Engineer
+#  description: <a href="https://www.zend.com/">Perforce Zend</a>, Jan 2006
 
 # --- Lapsed ---
 
